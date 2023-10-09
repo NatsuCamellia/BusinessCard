@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="natsucamellia">NatsuCamellia</string>
+    <string name="an_android_developer">An Android developer</string>
+    <string name="phone">+886 926596262</string>
+    <string name="email">natsucamellia@gmail.com</string>
+    <string name="website">https://natsucamellia.github.io</string>
+</resources>
